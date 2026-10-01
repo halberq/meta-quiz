@@ -5,7 +5,7 @@
       "question": "You just finished a grueling 3-hour lecture at 12:00 NN under the Mintal heat. What is your immediate priority?",
       "choices": [
         {"choice": "Head straight to Ate Ling’s for sizzling sisig, extra rice, and good chismis.", "preference": 0},
-        {"choice": "Go to the library to /\"study/\" (matulog ra diay).", "preference": 1},
+        {"choice": "Go to the library to \"study\" (matulog ra diay).", "preference": 1},
         {"choice": "Head home to change into proper clothes and keep to your strict daily schedule.", "preference": 2},
         {"choice": "Grab a chilled Sting or Lucky Day iced coffee to stay awake.", "preference": 3},
         {"choice": "Text the GC to check if we can skip the afternoon class and go to DGT.", "preference": 4}
