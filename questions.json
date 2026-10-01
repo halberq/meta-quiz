@@ -8,7 +8,7 @@
         {"choice": "Sleep outside", "preference": 1},
         {"choice": "Find a coffee shop and stay there till morning", "preference": 2},
         {"choice": "Call the landlord", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "No sleep I guess", "preference": 4}
       ]
     },
     {
@@ -19,7 +19,7 @@
         {"choice": "Try to understand it before submitting", "preference": 1},
         {"choice": "Add comments and go through the code again line by line", "preference": 2},
         {"choice": "Whisper “thank you” to the coding gods and move on", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "", "preference": 4}
       ]
     },
     {
@@ -74,7 +74,7 @@
         {"choice": "Sting", "preference": 1},
         {"choice": "Water", "preference": 2},
         {"choice": "Energy drink", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Matcha", "preference": 4}
       ]
     },
     {

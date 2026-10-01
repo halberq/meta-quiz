@@ -15,13 +15,13 @@
         {
             "id": 3,
             "type": "EBL Wardens",
-            "description": "RUNS ON STRICT RULES: 1. Bawal magshorts, 2. Bawal late matulog, 3. Bawal bf/gf, 4. Bawal …",
+            "description": "RUNS ON STRICT RULES: 1. Bawal magshorts, 2. Bawal late matulog, 3. Bawal bf/gf",
             "image": "client/eli.png"
         },
         {
             "id": 4,
             "type": "Sting/lucky day enjoyer",
-            "description": "",
+            "description": "Caffeine demons",
             "image": "client/mica.png"
         },
         {
