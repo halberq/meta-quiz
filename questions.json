@@ -2,167 +2,167 @@
   "questions": [
     {
       "id": "q1",
-      "question": "You are locked out of your dorm. What do you do?",
+      "question": "You just finished a grueling 3-hour lecture at 12:00 NN under the Mintal heat. What is your immediate priority?",
       "choices": [
-        {"choice": "Break in", "preference": 0},
-        {"choice": "Sleep outside", "preference": 1},
-        {"choice": "Find a coffee shop and stay there till morning", "preference": 2},
-        {"choice": "Call the landlord", "preference": 3},
-        {"choice": "No sleep I guess", "preference": 4}
+        {"choice": "Head straight to Ate Ling’s for sizzling sisig, extra rice, and good chismis.", "preference": 0},
+        {"choice": "Go to the library to /\"study/\" (matulog ra diay).", "preference": 1},
+        {"choice": "Head home to change into proper clothes and keep to your strict daily schedule.", "preference": 2},
+        {"choice": "Grab a chilled Sting or Lucky Day iced coffee to stay awake.", "preference": 3},
+        {"choice": "Text the GC to check if we can skip the afternoon class and go to DGT.", "preference": 4}
       ]
     },
     {
       "id": "q2",
-      "question": "Your code works, but you don't know why. What's your next move?",
+      "question": "How do you prepare for a major exam week during Hell Week?",
       "choices": [
-        {"choice": "Don't touch it. it's sacred now", "preference": 0},
-        {"choice": "Try to understand it before submitting", "preference": 1},
-        {"choice": "Add comments and go through the code again line by line", "preference": 2},
-        {"choice": "Whisper “thank you” to the coding gods and move on", "preference": 3},
-        {"choice": "", "preference": 4}
+        {"choice": "Heavy carb-loading muna, bawal mag-review nang gutom", "preference": 0},
+        {"choice": "Camp out in the coldest, quietest corner of the library all day.", "preference": 1},
+        {"choice": "Study early and strictly sleep before curfew—discipline over panic.", "preference": 2},
+        {"choice": "Pull an all-nighter the night before the exam.", "preference": 3},
+        {"choice": "Study for 15 minutes, get bored, then manifest class suspensions for a night out.", "preference": 4}
       ]
     },
     {
       "id": "q3",
-      "question": "You have a long break between classes. Where are you most likely to be found?",
+      "question": "Your professor posts at 7:00 AM: 'Class is asynchronous today.' How do you react?",
       "choices": [
-        {"choice": "In the library, pretending to study but actually doom-scrolling", "preference": 0},
-        {"choice": "In the cafeteria, looking for food", "preference": 1},
-        {"choice": "In your dorm, sleeping like a legend", "preference": 2},
-        {"choice": "Walking around the campus for no reason", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Call the GC. Gala agad", "preference": 0},
+        {"choice": "Celebrate at home by doomscrolling for the next 3 hours.", "preference": 1},
+        {"choice": "Wala nakita ang post kay tulog pa diay gihapon.", "preference": 2},
+        {"choice": "Finish 5 pending backlogs at 3x speed while chugging your second energy drink.", "preference": 3},
+        {"choice": "Good morning everyone—NEVER GROW OLD?! Inom / night out na agad!", "preference": 4}
       ]
     },
     {
       "id": "q4",
-      "question": "You notice a flaw in your friend’s research presentation, and the professor says that anyone who voluntarily asks a question after each presentation gets 10 points to their score. What do you do?",
+      "question": "What is your essential item inside your bag right now?",
       "choices": [
-        {"choice": "You stay silent", "preference": 0},
-        {"choice": "You ask a question, but refrain from asking about the flaw", "preference": 1},
-        {"choice": "You point out the flaw and get the 10 points, but your friend gets a low score for their research", "preference": 2},
-        {"choice": "You weren’t paying attention during the presentation", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Wallet, Cellphone, Keys. Only things you need tbh.", "preference": 0},
+        {"choice": "Notebook, pen, and a water bottle.", "preference": 1},
+        {"choice": "An extra pair of long pants or modest clothes (strictly bawal shorts).", "preference": 2},
+        {"choice": "At least one emergency unopened Sting or bottle of Lucky Day iced coffee.", "preference": 3},
+        {"choice": "A party fit change of clothes or bottle opener for spontaneous plans.", "preference": 4}
       ]
     },
     {
       "id": "q5",
-      "question": "You are assigned to present your group’s work. How do you prepare?",
+      "question": "How do you get your daily workout or exercise on campus?",
       "choices": [
-        {"choice": "Practice the whole presentation multiple times", "preference": 0},
-        {"choice": "Read the slides once and trust your instincts", "preference": 1},
-        {"choice": "Memorize only your part and hope nobody asks questions", "preference": 2},
-        {"choice": "Let adrenaline possess you during the presentation", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Exploring every cafe near campus.", "preference": 0},
+        {"choice": "Walking between CHSS, CSM, and DHK for maximum coverage.", "preference": 1},
+        {"choice": "Pacing around EBL strictly checking if people are following house rules and curfew.", "preference": 2},
+        {"choice": "My heart rate spiking to 180 BPM purely from caffeine intake.", "preference": 3},
+        {"choice": "Dancing and jumping non-stop during weekend night outs.", "preference": 4}
       ]
     },
     {
       "id": "q6",
-      "question": "Your teammate's approach to making their part for the research project is inefficient. You…",
+      "question": "What is your official stance on campus romance?",
       "choices": [
-        {"choice": "Point it out directly, so that you can finish the research faster", "preference": 0},
-        {"choice": "Suggest an alternative method that's faster", "preference": 1},
-        {"choice": "Do all the work yourself", "preference": 2},
-        {"choice": "Help them with their part to make the process faster", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "In a committed, monogamous relationship with myself.", "preference": 0},
+        {"choice": "Dili na tinuod ang romance, mangamatay raman gihapon ta tanan.", "preference": 1},
+        {"choice": "Strictly BAWAL BF/GF! Focus on studies and self-discipline first.", "preference": 2},
+        {"choice": "Happily taken na po.", "preference": 3},
+        {"choice": "Depends on who I meet at UPub this coming Friday night.", "preference": 4}
       ]
     },
     {
       "id": "q7",
-      "question": "You’re pulling an all-nighter to study for your exam tomorrow. What is your drink of choice?",
+      "question": "It’s 10:00 PM on a Thursday. What are you most likely doing?",
       "choices": [
-        {"choice": "Coffee", "preference": 0},
-        {"choice": "Sting", "preference": 1},
-        {"choice": "Water", "preference": 2},
-        {"choice": "Energy drink", "preference": 3},
-        {"choice": "Matcha", "preference": 4}
+        {"choice": "Walking around Basak, Mintal with friends trying to find late-night comfort food.", "preference": 0},
+        {"choice": "Deep in a PDF reading rabbit hole in a quiet, secluded spot.", "preference": 1},
+        {"choice": "In bed with your phone on silent, observing strict sleep hours.", "preference": 2},
+        {"choice": "Staring at the ceiling, contemplating the meaning of life.", "preference": 3},
+        {"choice": "Getting ready to go absent tomorrow (cuz para asa pud na musulod og klase on a FRIDAY??)", "preference": 4}
       ]
     },
     {
       "id": "q8",
-      "question": "Who is your favorite Data Scientist?",
+      "question": "What is your absolute worst nightmare on campus?",
       "choices": [
-        {"choice": "Aubrey Graham", "preference": 0},
-        {"choice": "Darren Watkins Jr.", "preference": 1},
-        {"choice": "Andrej Kaparthy", "preference": 2},
-        {"choice": "Francis Kollin Morales", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Ate Ling's being closed or running out of sisig.", "preference": 0},
+        {"choice": "The lib being full, noisy, or having warm air conditioning.", "preference": 1},
+        {"choice": "Getting caught wearing shorts or breaking dorm curfew.", "preference": 2},
+        {"choice": "Running out of caffeine in the middle of a 24-hour cramming session.", "preference": 3},
+        {"choice": "A dead weekend with hangouts scheduled.", "preference": 4}
       ]
     },
     {
       "id": "q9",
-      "question": "Are you willing to join CODEx next semester?",
+      "question": "Someone invites you to a spontaneous meetup right after your last class. Your response?",
       "choices": [
-        {"choice": "Yes", "preference": 0},
-        {"choice": "YesYes", "preference": 1},
-        {"choice": "SUPER Yes", "preference": 2},
-        {"choice": "Click here for Non-DS (sadly bawal mo sa CODEx)", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "G! Basta may masarap at mabusog na kainan!", "preference": 0},
+        {"choice": "Pass muna, wala nang pera.", "preference": 1},
+        {"choice": "I have to decline, study muna ako (feeling summa cum laude ampota).", "preference": 2},
+        {"choice": "Tara hanap tayo ng lowkey nga cafe.", "preference": 3},
+        {"choice": "G agad! Saan ang shot / tambayan tonight?!", "preference": 4}
       ]
     },
     {
       "id": "q10",
-      "question": "You’re choosing a seat on the first day of class. Where do you sit?",
+      "question": "What is your favorite sound on campus?",
       "choices": [
-        {"choice": "Front row, ready to focus", "preference": 0},
-        {"choice": "In the middle row, balanced and safe", "preference": 1},
-        {"choice": "In the back row, mysterious and strategic", "preference": 2},
-        {"choice": "Beside the person who looks friendly", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "The sizzle of a hot sisig plate being served to your table.", "preference": 0},
+        {"choice": "Complete air-conditioned silence and pages turning softly.", "preference": 1},
+        {"choice": "The quiet click of the gate locking safely on time before curfew.", "preference": 2},
+        {"choice": "The sharp pop of opening a cold Sting or Lucky Day bottle.", "preference": 3},
+        {"choice": "Loud bass, clanking glasses, and people shouting", "preference": 4}
       ]
     },
     {
       "id": "q11",
-      "question": "You’re walking down the hall — briskly, swiftly. But you're not late to anything, no. You have nowhere to go, nowhere to be. You bounce from room to room doing, enjoying, learning nothing.\nYou walk fast to get nothing done faster. You do nothing, eat, sleep, repeat.\n\nBut then, as the daily monotony continues to numb your mind, something — someONE crashes into you. And you start to see... nothing — you see nothing, but them. You feel nothing but the warmth of their skin. You hear nothing but the symphony of their voice: “Hala.” The numbness, ones so ingrained into your very being, was reduced to nothing, nothing but a scent — a familiar scent. People have told you that you underestimate yourself because you genuinely believe that you know nothing, but somehow... you know them. And as you look into the nothingness in their eyes, you can see that they know you \n\nAs you slowly guide each other and regain balance, you both pause and let silence fall. What do you say?",
+      "question": "What is your signature vibe during a 3-hour afternoon lecture?",
       "choices": [
-        {"choice": "BOMBOCLAT!!!!", "preference": 0},
-        {"choice": "d = √ ((a_2 - a_1)^2 + (b_2 - b_1)^2 +...+ (p_2 - p_1)^2)", "preference": 1},
-        {"choice": "The history of all hitherto societies is the history of class struggle", "preference": 2},
-        {"choice": "*attempts backflip", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Daydreaming about sizzling food and planning the post-class meal.", "preference": 0},
+        {"choice": "Slouched near the aircon, silently wishing everyone would stop talking.", "preference": 1},
+        {"choice": "Sitting upright in proper attire, taking neat, organized notes.", "preference": 2},
+        {"choice": "Leg bouncing violently, eyes wide open, typing at 200 WPM from caffeine.", "preference": 3},
+        {"choice": "Checking the clock every 2 minutes waiting for the bell so the night can start.", "preference": 4}
       ]
     },
     {
       "id": "q12",
-      "question": "Your laptop battery is at 3%, and you still have class. What do you do?",
+      "question": "How do you handle a crowded, chaotic room on campus?",
       "choices": [
-        {"choice": "Hunt for nearest outlet like it’s a survival mission", "preference": 0},
-        {"choice": "Lower brightness and pray", "preference": 1},
-        {"choice": "Ask a classmate if you can borrow a charger", "preference": 2},
-        {"choice": "Close the laptop and say “mental notes na lang”", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Patience is a virtue—I'll wait as long as there’s good food at the end!", "preference": 0},
+        {"choice": "Immediately turn around and find a deserted floor or quiet corner.", "preference": 1},
+        {"choice": "Ensure everyone is queuing orderly and respecting proper decorum.", "preference": 2},
+        {"choice": "Get restless, chug your drink faster, and start pacing around.", "preference": 3},
+        {"choice": "Look for people you know inside and turn it into a mini social event.", "preference": 4}
       ]
     },
     {
       "id": "q13",
-      "question": "Your professor suddenly asks the class a question, and nobody is answering. What do you do?",
+      "question": "What is your primary motivation to pass your subjects?",
       "choices": [
-        {"choice": "Avoid eye contact at all costs", "preference": 0},
-        {"choice": "Whisper the answer to your seatmate", "preference": 1},
-        {"choice": "Raise your hand even if you’re only 60% sure", "preference": 2},
-        {"choice": "Open your notes dramatically and pretend to be busy", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "To celebrate the end of the term with a grand feast and extra rice.", "preference": 0},
+        {"choice": "To graduate peacefully and never have to walk under the heat again.", "preference": 1},
+        {"choice": "To maintain self-discipline, respect rules, and make my family proud.", "preference": 2},
+        {"choice": "To justify the unspeakable amount of caffeine and sleep deprivation endured.", "preference": 3},
+        {"choice": "To party during sembreak without any backlogs hanging over my head.", "preference": 4}
       ]
     },
     {
       "id": "q14",
-      "question": "What’s your campus survival item?",
+      "question": "Which quote resonates with your soul the most?",
       "choices": [
-        {"choice": "Water bottle", "preference": 0},
-        {"choice": "Portable electric fan", "preference": 1},
-        {"choice": "Umbrella", "preference": 2},
-        {"choice": "You don't bring anything at all and just wing it", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Pag vacant kain agad. Bawal mag-study nang gutom.", "preference": 0},
+        {"choice": "Silence is good, but strong air conditioning is heaven.", "preference": 1},
+        {"choice": "Rules exist for a reason—discipline builds character!", "preference": 2},
+        {"choice": "My blood type is cold brew and red energy drinks.", "preference": 3},
+        {"choice": "Work hard, party harder. 'Good morning everyone' means 'Inom na!'", "preference": 4}
       ]
     },
     {
       "id": "q15",
-      "question": "What would you name a kambing (goat)?",
+      "question": "What is your main goal when entering campus every morning?",
       "choices": [
-        {"choice": "Carl Joseph Eduardo", "preference": 0},
-        {"choice": "LeBron James", "preference": 1},
-        {"choice": "Intel Panther Lake Ultra 9 280K", "preference": 2},
-        {"choice": "Brownie", "preference": 3},
-        {"choice": "a", "preference": 4}
+        {"choice": "Eat good comfort food with the barkada during long breaks.", "preference": 0},
+        {"choice": "Secure a quiet, cold spot in the library before everyone else takes it.", "preference": 1},
+        {"choice": "Complete my classes cleanly, follow rules, and keep a spotless record.", "preference": 2},
+        {"choice": "Survive the day without my heart giving out from caffeine & stress.", "preference": 3},
+        {"choice": "Make it through lectures so we can hit the night spots later.", "preference": 4}
       ]
     }
   ]
